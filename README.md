@@ -1,9 +1,11 @@
 # Greenfield Campus Orientation Assistant
 
-**Phase 1 — Text Intelligence**
+**Live Demo:** [campus-assistant-ten.vercel.app](https://campus-assistant-ten.vercel.app/)
+
+**HuggingFace Space (backend):** [Anchalsn21/campus-helper](https://huggingface.co/spaces/Anchalsn21/campus-helper/tree/main)
 
 An AI-powered campus chatbot for Greenfield University. Built as an MSc assignment
-covering multimodal AI (Phase 1: text only; Phase 2: voice + image).
+covering multimodal AI (text, voice, and image).
 
 ## Architecture
 
