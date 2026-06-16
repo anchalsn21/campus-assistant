@@ -1,0 +1,16 @@
+# ── Documentation & report assets (submitted separately) ─────────────────────
+docs/
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -- Hidden git backup (temporary, restored after push) --
+**/.git_backup/
